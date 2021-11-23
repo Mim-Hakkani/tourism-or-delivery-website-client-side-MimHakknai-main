@@ -1,0 +1,20 @@
+/*
+font-family: 'Montserrat', sans-serif;
+font-family: 'Poppins', sans-serif;
+
+*/
+ul{
+    text-align: right;
+    margin-top: 25px;
+}
+ul li{
+    display: inline-block;
+}
+ul a {
+    text-decoration: none;
+    margin: 10px 15px;
+    font-size: 20px;
+    color: darkgoldenrod;
+    font-family: cursive;
+    display: block;
+}

@@ -1,0 +1,37 @@
+[
+    {
+        "id":"1",
+        "title":"Ceo and Founder of hakkani Turisum",
+        "img":"https://images.unsplash.com/flagged/photo-1553642618-de0381320ff3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGNlb3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+        
+    },    {
+        "id":"2",
+        "title":"Turisum Manager of Hakkani ture",
+        "img":"https://images.squarespace-cdn.com/content/v1/53b599ebe4b08a2784696956/1583787277453-T9BYMZLY25T79K04LBMI/CEOportrait-headshots-NYC-photos.jpg?format=2500w"
+        
+    },   
+     {
+        "id":"3",
+        "title":"Guideliner",
+        "img":"https://media.istockphoto.com/photos/trust-in-our-business-picture-id627909282?k=20&m=627909282&s=612x612&w=0&h=tjCxE3iXV7ygTL8UiZNm3ZlWYKnc8txLscyrD47LO3g="
+        
+    },  
+      {
+        "id":"4",
+        "title":"Booking Section Officer",
+        "img":"https://digiartphotography.com/wp-content/uploads/corporate-ceo-scaled.jpg"
+        
+    }, 
+       {
+        "id":"5",
+        "title":"Experience Guider man",
+        "img":"https://rio180hotel.com/wp-content/uploads/2019/03/Tour-Guide0.jpg"
+        
+    },
+    {
+        "id":"6",
+        "title":"Guider With Photographer",
+        "img":"https://media.istockphoto.com/photos/young-woman-using-dslr-camera-picture-id610259354?b=1&k=20&m=610259354&s=170667a&w=0&h=17NpWUsXTPsBHHl_APMAEeQ4MFBmcCwbSB-5T3UaGT4="
+        
+    }
+]

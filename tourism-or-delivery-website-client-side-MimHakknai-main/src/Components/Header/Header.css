@@ -1,0 +1,23 @@
+.social li{
+    list-style: none; 
+    display: inline-block;
+    margin: 0px 17px;
+
+}
+.social li a{
+    color: rgb(90, 110, 223);
+    display: block;
+    text-decoration: none;
+
+}
+
+.navigation-style a {
+    text-decoration: none;
+    /* display: block; */
+    padding: 0px 11px;
+    font-size: 17px;
+    color: chocolate;
+    font-weight: 500;
+    font-family: Poppins;
+    letter-spacing: 1px;
+}
